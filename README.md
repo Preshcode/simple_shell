@@ -1,2 +1,3 @@
 Simple_Shell
-A Simple Shell project built by Joak Jeremiah and Noah Useghan for Alx Software Engineering School.
+A Simple Shell project built by Precious Okeke and Judith Dick for Alx Software Engineering School.
+
